@@ -7,7 +7,7 @@
  * Author: Chris McCoy
  * Author URI: http://github.com/chrismccoy
  *
- * @copyright 2023
+ * @copyright 2025
  * @author Chris McCoy
  * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
